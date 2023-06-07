@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "id": 2,
+            "nombre": "Mauricio",
+            "apellido": "Castillo",
+            "edad": 40
+        },
+        {
+            "id": 3,
+            "nombre": "Pepe",
+            "apellido": "Rojas",
+            "edad": 33
+        },
+        {
+            "id": "726a99",
+            "nombre": "Carlos",
+            "apellido": "Soto",
+            "edad": 25
+        },
+        {
+            "id": "686748",
+            "nombre": "Carlitos",
+            "apellido": "Pereira",
+            "edad": 50
+        },
+        {
+            "id": "8f06d4",
+            "nombre": "juanito",
+            "apellido": "soto",
+            "edad": 22
+        }
+    ]
+}
